@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.4035623
+  lightness: 0.0210197
+  brandStrength: 0.8222948
+  brandColors:
+    - '#F0F0F0'
+    - '#521616'
+    - '#A13938'
+    - '#C4ABA6'
+    - '#A28688'
+  rhythmicContrast: 0.6632463
+typography_spectrum: 0.8987873
+name: GLIC
